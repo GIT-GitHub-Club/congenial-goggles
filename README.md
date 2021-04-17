@@ -10,3 +10,5 @@ Which is where Version Control Systems come in. They are systems, software-based
 
 ## Why Git? Why GitHub?
 Git has its own flaws, but it is a lot more intuitive than `final_version_1.xyz`, and certainly easier to debug and find solutions for on StackOverflow. And GitHub is what we're using here, but there are many other service providers each with their own special sauces and terms & conditions, so do please explore them all before you settle on one. (Although odds are you'll like GitHub the most.)
+
+Contributor // Reshma
